@@ -1,0 +1,10 @@
+packages/coq/coq.8.5.3~depends/url 0e911d8ebd2b005fc49a8249d07950a7 0o664
+packages/coq/coq.8.5.3~depends/opam 7214cc02bddd0382f817dcb06a001ca6 0o664
+packages/coq/coq.8.5.3~depends/files/coq.install 26c6de669a7d377c2be8592c4e3c0260 0o664
+packages/coq/coq.8.5.3~depends/descr c3a9fed4b000f7138947158b86da3e06 0o664
+packages/coq-depends/coq-depends.dev/url 7edb1eaef3aba4d76735b79c42d60b95 0o664
+packages/coq-depends/coq-depends.dev/opam 99be39ac3dd4f3e10f7bde2a2fafc4a3 0o664
+packages/coq-depends/coq-depends.dev/descr bee94656536fa7a6e63cea91c9f02a56 0o664
+packages/coq-ast/coq-ast.dev/url 387a307f4f3832c1afe2c8ce7602cd51 0o664
+packages/coq-ast/coq-ast.dev/opam 93a29e35a5d63155358c81265c6a7dc6 0o664
+packages/coq-ast/coq-ast.dev/descr 928b9e3a51feb4e49191affe09fef302 0o664
