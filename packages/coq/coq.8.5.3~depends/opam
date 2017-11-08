@@ -27,7 +27,7 @@ build: [
 ]
 remove: ["rm" "-R" "%{lib}%/coq"]
 depends: [
-  "camlp5" 
+  "camlp5" {>= "7.01"}
 ]
 available: [ocaml-version >= "3.12.1"]
 install: [make "install"]
