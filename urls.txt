@@ -1,5 +1,5 @@
 packages/icoq/icoq.dev/url 340c51779970bd2273f5aba03af2eb08 0o664
-packages/icoq/icoq.dev/opam 1e2d5645a03f3057a054ce7dcea771e9 0o664
+packages/icoq/icoq.dev/opam 9d711ac705691c63e0e8b24e7af184f7 0o664
 packages/icoq/icoq.dev/files/icoq.install c43d208be336f24c01ae2bd056c118a2 0o664
 packages/icoq/icoq.dev/descr ac084da4b5ac7ee0b53e94f4e68a45ed 0o664
 packages/coq/coq.8.5.3~depends/url 0e911d8ebd2b005fc49a8249d07950a7 0o664
