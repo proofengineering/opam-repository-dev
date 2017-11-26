@@ -15,6 +15,9 @@ packages/coq-ast/coq-ast.dev/descr 928b9e3a51feb4e49191affe09fef302 0o664
 packages/UniMath/UniMath.dev/url 4af739928aa84e270d677e3dd067cc0e 0o664
 packages/UniMath/UniMath.dev/opam 8962afc949a304a31959b9f34375bfc2 0o664
 packages/UniMath/UniMath.dev/descr f7ad734a94daa0e4b4007f868fedaf3e 0o664
+packages/UniMath-Foundations/UniMath-Foundations.dev/url 4af739928aa84e270d677e3dd067cc0e 0o664
+packages/UniMath-Foundations/UniMath-Foundations.dev/opam 3234c0f3699825cf3a000fea24f3dcac 0o664
+packages/UniMath-Foundations/UniMath-Foundations.dev/descr f7ad734a94daa0e4b4007f868fedaf3e 0o664
 packages/PUMPKIN-PATCH/PUMPKIN-PATCH.dev/url 7a90460fbc5b04fc08c0c61d1f819fe9 0o664
 packages/PUMPKIN-PATCH/PUMPKIN-PATCH.dev/opam cefb609c6aff0c885c8be34b999ed803 0o664
 packages/PUMPKIN-PATCH/PUMPKIN-PATCH.dev/descr 3d3472dfbb716126acdb15bd5bb1dc54 0o664
