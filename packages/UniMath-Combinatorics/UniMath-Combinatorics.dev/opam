@@ -15,6 +15,7 @@ install: [ make "BUILD_COQ=no" "install" ]
 remove: [ "sh" "-c" "rm -rf '%{lib}%/coq/user-contrib/UniMath/Combinatorics'" ]
 depends: [
   "UniMath-Foundations" {= "dev"}
+  "UniMath-MoreFoundations" {= "dev"}
 ]
 conflicts: [
   "UniMath" {= "dev"}
