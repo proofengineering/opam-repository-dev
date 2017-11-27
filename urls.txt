@@ -13,7 +13,7 @@ packages/coq-ast/coq-ast.dev/url 387a307f4f3832c1afe2c8ce7602cd51 0o664
 packages/coq-ast/coq-ast.dev/opam 93a29e35a5d63155358c81265c6a7dc6 0o664
 packages/coq-ast/coq-ast.dev/descr 928b9e3a51feb4e49191affe09fef302 0o664
 packages/UniMath/UniMath.dev/url 4af739928aa84e270d677e3dd067cc0e 0o664
-packages/UniMath/UniMath.dev/opam 8962afc949a304a31959b9f34375bfc2 0o664
+packages/UniMath/UniMath.dev/opam 32f072c0401fed357975aaf99b8476b9 0o664
 packages/UniMath/UniMath.dev/descr f7ad734a94daa0e4b4007f868fedaf3e 0o664
 packages/UniMath-Topology/UniMath-Topology.dev/url 4af739928aa84e270d677e3dd067cc0e 0o664
 packages/UniMath-Topology/UniMath-Topology.dev/opam 757d23bb864517e4b0f7053be06065c5 0o664
@@ -43,7 +43,7 @@ packages/UniMath-HomologicalAlgebra/UniMath-HomologicalAlgebra.dev/url 4af739928
 packages/UniMath-HomologicalAlgebra/UniMath-HomologicalAlgebra.dev/opam 1b7781c354b43e1928535b4a8dc53a6f 0o664
 packages/UniMath-HomologicalAlgebra/UniMath-HomologicalAlgebra.dev/descr f7ad734a94daa0e4b4007f868fedaf3e 0o664
 packages/UniMath-Foundations/UniMath-Foundations.dev/url 4af739928aa84e270d677e3dd067cc0e 0o664
-packages/UniMath-Foundations/UniMath-Foundations.dev/opam 3234c0f3699825cf3a000fea24f3dcac 0o664
+packages/UniMath-Foundations/UniMath-Foundations.dev/opam e5b694baec95e2b649cc4d934b4ee2e5 0o664
 packages/UniMath-Foundations/UniMath-Foundations.dev/descr f7ad734a94daa0e4b4007f868fedaf3e 0o664
 packages/UniMath-Folds/UniMath-Folds.dev/url 4af739928aa84e270d677e3dd067cc0e 0o664
 packages/UniMath-Folds/UniMath-Folds.dev/opam ebc6842dd11a2da5b27cada820bdc0f1 0o664
