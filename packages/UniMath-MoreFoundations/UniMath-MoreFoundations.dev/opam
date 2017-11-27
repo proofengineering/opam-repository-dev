@@ -8,7 +8,7 @@ license: "Kind of MIT"
 
 build: [
   [ make "BUILD_COQ=no" "INCLUDE=no" "PACKAGES=MoreFoundations" ".coq_makefile_input" ]
-  [ "sed" "-i" "-e" "s/-Q\ UniMath\ UniMath/-Q\ UniMath\\\/MoreFoundations\ UniMath\.MoreFoundations/" ".coq_makefile_input" ]
+  [ "sed" "-i" "-e" "s=-Q\ UniMath\ UniMath=-Q\ UniMath/MoreFoundations\ UniMath.MoreFoundations=" ".coq_makefile_input" ]
   [ "coq_makefile" "-f" ".coq_makefile_input" "-o" "Makefile.coq" ]
   [ make "-f" "Makefile.coq" "-j%{jobs}%" ]
 ]
