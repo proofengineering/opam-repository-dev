@@ -15,6 +15,9 @@ packages/coq-ast/coq-ast.dev/descr 928b9e3a51feb4e49191affe09fef302 0o664
 packages/UniMath/UniMath.dev/url 4af739928aa84e270d677e3dd067cc0e 0o664
 packages/UniMath/UniMath.dev/opam 8962afc949a304a31959b9f34375bfc2 0o664
 packages/UniMath/UniMath.dev/descr f7ad734a94daa0e4b4007f868fedaf3e 0o664
+packages/UniMath-MoreFoundations/UniMath-MoreFoundations.dev/url 4af739928aa84e270d677e3dd067cc0e 0o664
+packages/UniMath-MoreFoundations/UniMath-MoreFoundations.dev/opam 2f0e4e637b9a7ac1307fb9cd6aab8c02 0o664
+packages/UniMath-MoreFoundations/UniMath-MoreFoundations.dev/descr f7ad734a94daa0e4b4007f868fedaf3e 0o664
 packages/UniMath-Foundations/UniMath-Foundations.dev/url 4af739928aa84e270d677e3dd067cc0e 0o664
 packages/UniMath-Foundations/UniMath-Foundations.dev/opam 3234c0f3699825cf3a000fea24f3dcac 0o664
 packages/UniMath-Foundations/UniMath-Foundations.dev/descr f7ad734a94daa0e4b4007f868fedaf3e 0o664
