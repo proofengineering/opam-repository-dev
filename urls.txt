@@ -1,3 +1,6 @@
+packages/reglang/reglang.dev/url 2df7e4cab0fddb9f99ce1991990b9614 0o664
+packages/reglang/reglang.dev/opam abbff58dbe6159178c51b38592f18b70 0o664
+packages/reglang/reglang.dev/descr fd0ac860261214042d0f69498a3d6df7 0o664
 packages/icoq/icoq.dev/url 340c51779970bd2273f5aba03af2eb08 0o664
 packages/icoq/icoq.dev/opam 9d711ac705691c63e0e8b24e7af184f7 0o664
 packages/icoq/icoq.dev/files/icoq.install c43d208be336f24c01ae2bd056c118a2 0o664
