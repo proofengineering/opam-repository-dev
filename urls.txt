@@ -2,14 +2,14 @@ packages/reglang/reglang.dev/url 2df7e4cab0fddb9f99ce1991990b9614 0o664
 packages/reglang/reglang.dev/opam abbff58dbe6159178c51b38592f18b70 0o664
 packages/reglang/reglang.dev/descr fd0ac860261214042d0f69498a3d6df7 0o664
 packages/icoq/icoq.dev/url 340c51779970bd2273f5aba03af2eb08 0o664
-packages/icoq/icoq.dev/opam 9d711ac705691c63e0e8b24e7af184f7 0o664
+packages/icoq/icoq.dev/opam 1047a9a27486e74963c1c8e0c23b26cf 0o664
 packages/icoq/icoq.dev/files/icoq.install c43d208be336f24c01ae2bd056c118a2 0o664
 packages/icoq/icoq.dev/descr ac084da4b5ac7ee0b53e94f4e68a45ed 0o664
 packages/coqhammer/coqhammer.dev/url 9f383c7c44dc2713f8b61ef2f5a3e705 0o664
 packages/coqhammer/coqhammer.dev/opam 233e0cef7b84f44c9dc52c8addc4369c 0o664
 packages/coqhammer/coqhammer.dev/descr f3978cc9886a59fe7ce2d02bc5d683c3 0o664
 packages/coq/coq.8.5.3~depends/url 0e911d8ebd2b005fc49a8249d07950a7 0o664
-packages/coq/coq.8.5.3~depends/opam 98fd48dfe9e40d5db2ae19033813d6b5 0o664
+packages/coq/coq.8.5.3~depends/opam 49b7818524a809cc3d8588f6ebb20ba7 0o664
 packages/coq/coq.8.5.3~depends/files/coq.install 26c6de669a7d377c2be8592c4e3c0260 0o664
 packages/coq/coq.8.5.3~depends/descr c3a9fed4b000f7138947158b86da3e06 0o664
 packages/coq-depends/coq-depends.dev/url 7edb1eaef3aba4d76735b79c42d60b95 0o664
