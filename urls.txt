@@ -5,6 +5,9 @@ packages/icoq/icoq.dev/url 340c51779970bd2273f5aba03af2eb08 0o664
 packages/icoq/icoq.dev/opam 1047a9a27486e74963c1c8e0c23b26cf 0o664
 packages/icoq/icoq.dev/files/icoq.install c43d208be336f24c01ae2bd056c118a2 0o664
 packages/icoq/icoq.dev/descr ac084da4b5ac7ee0b53e94f4e68a45ed 0o664
+packages/htt/htt.dev/url 085bef732329750d3ebae35ab8f2a345 0o664
+packages/htt/htt.dev/opam 386bf788ff66d327277d3fec4877357c 0o664
+packages/htt/htt.dev/descr 198a90df85239eb002bf25c8084b62fe 0o664
 packages/coqhammer/coqhammer.dev/url 9f383c7c44dc2713f8b61ef2f5a3e705 0o664
 packages/coqhammer/coqhammer.dev/opam 233e0cef7b84f44c9dc52c8addc4369c 0o664
 packages/coqhammer/coqhammer.dev/descr f3978cc9886a59fe7ce2d02bc5d683c3 0o664
