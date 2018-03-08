@@ -11,6 +11,9 @@ packages/icoq/icoq.dev/descr ac084da4b5ac7ee0b53e94f4e68a45ed 0o664
 packages/htt/htt.dev/url 085bef732329750d3ebae35ab8f2a345 0o664
 packages/htt/htt.dev/opam 386bf788ff66d327277d3fec4877357c 0o664
 packages/htt/htt.dev/descr 198a90df85239eb002bf25c8084b62fe 0o664
+packages/elliptic-curves-ssr/url 4421b8a4a4fa608afe43dcbec1ab13aa 0o664
+packages/elliptic-curves-ssr/opam 879b66de77d706e0e4aa30c41dbcb9d4 0o664
+packages/elliptic-curves-ssr/descr 5d9e9f2699c603ff1ae9a5a41d2d25db 0o664
 packages/coqhammer/coqhammer.dev/url 9f383c7c44dc2713f8b61ef2f5a3e705 0o664
 packages/coqhammer/coqhammer.dev/opam 233e0cef7b84f44c9dc52c8addc4369c 0o664
 packages/coqhammer/coqhammer.dev/descr f3978cc9886a59fe7ce2d02bc5d683c3 0o664
