@@ -8,6 +8,10 @@ packages/icoq/icoq.dev/descr ac084da4b5ac7ee0b53e94f4e68a45ed 0o664
 packages/elliptic-curves-ssr/elliptic-curves-ssr.dev/url 4421b8a4a4fa608afe43dcbec1ab13aa 0o664
 packages/elliptic-curves-ssr/elliptic-curves-ssr.dev/opam 879b66de77d706e0e4aa30c41dbcb9d4 0o664
 packages/elliptic-curves-ssr/elliptic-curves-ssr.dev/descr 5d9e9f2699c603ff1ae9a5a41d2d25db 0o664
+packages/coq/coq.8.8.2~test/url c17de0f4e3848c8d88edd81c8fbacfaf 0o664
+packages/coq/coq.8.8.2~test/opam 20b3db9156e0103fc03fd1470234d187 0o664
+packages/coq/coq.8.8.2~test/files/coq.install 6e8ff2905b5508b143a8acb16e3b5150 0o664
+packages/coq/coq.8.8.2~test/descr c3a9fed4b000f7138947158b86da3e06 0o664
 packages/coq/coq.8.5.3~depends/url 0e911d8ebd2b005fc49a8249d07950a7 0o664
 packages/coq/coq.8.5.3~depends/opam 49b7818524a809cc3d8588f6ebb20ba7 0o664
 packages/coq/coq.8.5.3~depends/files/coq.install 26c6de669a7d377c2be8592c4e3c0260 0o664
@@ -21,3 +25,4 @@ packages/coq-ast/coq-ast.dev/descr 928b9e3a51feb4e49191affe09fef302 0o664
 packages/PUMPKIN-PATCH/PUMPKIN-PATCH.dev/url 7a90460fbc5b04fc08c0c61d1f819fe9 0o664
 packages/PUMPKIN-PATCH/PUMPKIN-PATCH.dev/opam cefb609c6aff0c885c8be34b999ed803 0o664
 packages/PUMPKIN-PATCH/PUMPKIN-PATCH.dev/descr 3d3472dfbb716126acdb15bd5bb1dc54 0o664
+archives/coq.8.8.2~test+opam.tar.gz 26a70f28afca6fe4b98fe9e4d98693e7 0o664
