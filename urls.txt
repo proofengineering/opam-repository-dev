@@ -1,6 +1,16 @@
 packages/toychain/toychain.dev/url d45a7b40816e60f01046d002ec6a6852 0o664
 packages/toychain/toychain.dev/opam f63204bce9debaa2823a5496ba47b584 0o664
 packages/toychain/toychain.dev/descr e02038475a35bc520cc53fcc6593e66f 0o664
+packages/ppxlib/ppxlib.0.3.1/url 7d80718b03c2f29dd13bd41603e465c8 0o664
+packages/ppxlib/ppxlib.0.3.1/opam 09a4fa8f724b819599c14580135fb0b4 0o664
+packages/ppxlib/ppxlib.0.3.1/files/ppxlib.install 54c47243a5afac9724eb49fc1af5da02 0o664
+packages/ppxlib/ppxlib.0.3.1/descr 517f374051d988fdb2a5d53b2fc16a17 0o664
+packages/ppx_import/ppx_import.1.5-3/url 7cd33622e2e22a4938ff878f3eb65462 0o664
+packages/ppx_import/ppx_import.1.5-3/opam 760efca398279d48c1398bb4567f6ebc 0o664
+packages/ppx_import/ppx_import.1.5-3/descr 3c5a21c577f4bd63dfe2ad4f0b8c9ea2 0o664
+packages/ocaml-migrate-parsetree/ocaml-migrate-parsetree.1.1.0/url eadff158516a719e21c221b59db586c4 0o664
+packages/ocaml-migrate-parsetree/ocaml-migrate-parsetree.1.1.0/opam 5ecfa7aa450da0141952caba8ea031df 0o664
+packages/ocaml-migrate-parsetree/ocaml-migrate-parsetree.1.1.0/descr 87f1a095b86eb62fa7103eadfee51ce0 0o664
 packages/icoq/icoq.dev/url 340c51779970bd2273f5aba03af2eb08 0o664
 packages/icoq/icoq.dev/opam 1047a9a27486e74963c1c8e0c23b26cf 0o664
 packages/icoq/icoq.dev/files/icoq.install c43d208be336f24c01ae2bd056c118a2 0o664
