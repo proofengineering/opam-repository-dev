@@ -32,6 +32,9 @@ packages/coq-depends/coq-depends.dev/descr bee94656536fa7a6e63cea91c9f02a56 0o66
 packages/coq-ast/coq-ast.dev/url 387a307f4f3832c1afe2c8ce7602cd51 0o664
 packages/coq-ast/coq-ast.dev/opam 93a29e35a5d63155358c81265c6a7dc6 0o664
 packages/coq-ast/coq-ast.dev/descr 928b9e3a51feb4e49191affe09fef302 0o664
+packages/atbr-plugin/atbr-plugin.dev/url e470b1e2041459dfd3f9d66323a05fb8 0o664
+packages/atbr-plugin/atbr-plugin.dev/opam 9dd48542d682c5df8a71681e9a484ad3 0o664
+packages/atbr-plugin/atbr-plugin.dev/descr 89fa6d7e9a0f688018489cb1d55305f9 0o664
 packages/PUMPKIN-PATCH/PUMPKIN-PATCH.dev/url 7a90460fbc5b04fc08c0c61d1f819fe9 0o664
 packages/PUMPKIN-PATCH/PUMPKIN-PATCH.dev/opam cefb609c6aff0c885c8be34b999ed803 0o664
 packages/PUMPKIN-PATCH/PUMPKIN-PATCH.dev/descr 3d3472dfbb716126acdb15bd5bb1dc54 0o664
