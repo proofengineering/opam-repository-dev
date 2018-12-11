@@ -18,6 +18,10 @@ packages/icoq/icoq.dev/descr ac084da4b5ac7ee0b53e94f4e68a45ed 0o664
 packages/elliptic-curves-ssr/elliptic-curves-ssr.dev/url 4421b8a4a4fa608afe43dcbec1ab13aa 0o664
 packages/elliptic-curves-ssr/elliptic-curves-ssr.dev/opam 879b66de77d706e0e4aa30c41dbcb9d4 0o664
 packages/elliptic-curves-ssr/elliptic-curves-ssr.dev/descr 5d9e9f2699c603ff1ae9a5a41d2d25db 0o664
+packages/coqide/coqide.8.9+serapi/url 6d479b5013b2595cb961604eedfdb397 0o664
+packages/coqide/coqide.8.9+serapi/opam ab6118742bdf0c6b0bcec62d9a74abcd 0o664
+packages/coqide/coqide.8.9+serapi/files/coqide.install d005cda8cb7888fbea94c5416dcb31bc 0o664
+packages/coqide/coqide.8.9+serapi/descr e9bb507bda3d6a0af135d1e912d64158 0o664
 packages/coq/coq.8.9+serapi/url 6d479b5013b2595cb961604eedfdb397 0o664
 packages/coq/coq.8.9+serapi/opam 80da024294680c7612f54a2daf640d6e 0o664
 packages/coq/coq.8.9+serapi/files/coq.install a5d0f9a35ef24aa3948a6960e657b206 0o664
