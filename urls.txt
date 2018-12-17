@@ -30,6 +30,10 @@ packages/coq/coq.8.5.3~depends/url 0e911d8ebd2b005fc49a8249d07950a7 0o664
 packages/coq/coq.8.5.3~depends/opam 49b7818524a809cc3d8588f6ebb20ba7 0o664
 packages/coq/coq.8.5.3~depends/files/coq.install 26c6de669a7d377c2be8592c4e3c0260 0o664
 packages/coq/coq.8.5.3~depends/descr c3a9fed4b000f7138947158b86da3e06 0o664
+packages/coq/coq.8.10+serapi/url 323a1d0f449b018ba335404080d9f7ba 0o664
+packages/coq/coq.8.10+serapi/opam fe57bf4380e1d32e5de72a0b355c2d48 0o664
+packages/coq/coq.8.10+serapi/files/coq.install a5d0f9a35ef24aa3948a6960e657b206 0o664
+packages/coq/coq.8.10+serapi/descr c3a9fed4b000f7138947158b86da3e06 0o664
 packages/coq-mathcomp-ssreflect/coq-mathcomp-ssreflect.1.7.0+serapi/url 0640c0701c67f519d72a1b05560f40fb 0o664
 packages/coq-mathcomp-ssreflect/coq-mathcomp-ssreflect.1.7.0+serapi/opam 6c316bc6c87a3c6ffe3e9bbdd57e0a4e 0o664
 packages/coq-mathcomp-ssreflect/coq-mathcomp-ssreflect.1.7.0+serapi/descr 9f43e79cb8f7f266e79fcfed8c62008e 0o664
