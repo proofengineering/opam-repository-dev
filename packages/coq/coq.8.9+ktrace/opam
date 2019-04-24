@@ -1,18 +1,17 @@
-opam-version: "1.2"
+opam-version: "2.0"
 maintainer: "coqdev@inria.fr"
-authors: "The Coq development team, INRIA, CNRS, University Paris Sud, University Paris 7, Ecole Polytechnique."
+authors: "The Coq development team, INRIA, CNRS, and contributors."
 homepage: "https://coq.inria.fr/"
 bug-reports: "https://github.com/coq/coq/issues"
-dev-repo: "https://github.com/coq/coq.git"
+dev-repo: "git+https://github.com/ejgallego/coq.git"
 license: "LGPL-2.1"
 
-available: [ocaml-version >= "4.02.3"]
 depends: [
+  "ocaml" {>= "4.02.3"}
   "ocamlfind" {build}
   "camlp5"
   "num"
 ]
-
 build: [
   [
     "./configure"
@@ -48,10 +47,11 @@ remove: [
   "%{man}%/man1/coqtop.opt.1"
   "%{man}%/man1/coqwc.1"
   "%{share}%/texmf/tex/latex/misc/coqdoc.sty"
-  "%{share}%/emacs/site-lisp/coq-font-lock.el"
-  "%{share}%/emacs/site-lisp/coq-inferior.el"
-  "%{share}%/emacs/site-lisp/gallina-db.el"
-  "%{share}%/emacs/site-lisp/gallina.el"
-  "%{share}%/emacs/site-lisp/gallina-syntax.el"
   ]
 ]
+synopsis: "Formal proof management system"
+flags: light-uninstall
+extra-files: ["coq.install" "md5=a5d0f9a35ef24aa3948a6960e657b206"]
+url {
+  src: "git+https://github.com/ejgallego/coq#v8.9+ktrace"
+}
