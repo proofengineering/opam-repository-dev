@@ -1,19 +1,24 @@
-opam-version: "1.2"
+opam-version: "2.0"
 maintainer: "palmskog@gmail.com"
 
 homepage: "http://cozy.ece.utexas.edu/icoq/"
-dev-repo: "https://github.com/proofengineering/icoq.git"
+dev-repo: "git+https://github.com/proofengineering/icoq.git"
 bug-reports: "https://github.com/proofengineering/icoq/issues"
 license: "Proprietary"
+synopsis: "A regression proof selection tool for large-scale Coq projects"
 
-available: [ ocaml-version >= "4.02.3" & ocaml-version < "4.06" ]
 build: [ "./configure" "%{lib}%/icoq" ]
 depends: [
-  "coq" {= "8.5.3~depends" }
-  "coq-ast" {= "dev" }
-  "coq-depends" {= "dev" }
+  "ocaml" {>= "4.02.3" & < "4.06"}
+  "coq" {= "8.5.3~depends"}
+  "coq-ast" {= "dev"}
+  "coq-depends" {= "dev"}
 ]
 tags: [
   "keyword:icoq"
 ]
 authors: [ "Ahmet Celik <>" "Karl Palmskog <>" "Milos Gligoric <>" ]
+extra-files: ["icoq.install" "md5=c43d208be336f24c01ae2bd056c118a2"]
+url {
+  src: "git+https://github.com/proofengineering/icoq.git"
+}

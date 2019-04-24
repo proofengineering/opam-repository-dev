@@ -1,17 +1,24 @@
-opam-version: "1.2"
+opam-version: "2.0"
 maintainer: "palmskog@gmail.com"
 
 homepage: "https://github.com/proofengineering/atbr-plugin"
-dev-repo: "https://github.com/proofengineering/atbr-plugin.git"
+dev-repo: "git+https://github.com/proofengineering/atbr-plugin.git"
 bug-reports: "https://github.com/proofengineering/atbr-plugin/issues"
 license: "LGPL 3"
+synopsis: "ATBR plugin"
 
 build: [ make "-j%{jobs}%" ]
 install: [ make "install" ]
 remove: [ "sh" "-c" "rm -rf '%{lib}%/coq/user-contrib/ATBR'" ]
 depends: [
+  "ocaml"
   "coq" {>= "8.9" & < "8.10~"}
 ]
+flags: light-uninstall
 
 tags: [ "keyword:kleene algebra" ]
 authors: [ "Damien Pous" "Thomas Braibant" ]
+
+url {
+  src: "git+https://github.com/proofengineering/atbr-plugin.git"
+}
