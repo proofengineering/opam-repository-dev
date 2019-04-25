@@ -1,14 +1,1 @@
-repo f37506a478364017f31eb5d87f9e5904 0o664
-packages/icoq/icoq.dev/opam a8bc187b83bba7b3591c9b118412ae7a 0o664
-packages/icoq/icoq.dev/files/icoq.install c43d208be336f24c01ae2bd056c118a2 0o664
-packages/coq/coq.8.9+serapi/opam 55f43b1bc231d36068d2d1b6cf35bd69 0o664
-packages/coq/coq.8.9+serapi/files/coq.install a5d0f9a35ef24aa3948a6960e657b206 0o664
-packages/coq/coq.8.9+ktrace/opam c6da67d7f04500adf79362eea8e71498 0o664
-packages/coq/coq.8.9+ktrace/files/coq.install a5d0f9a35ef24aa3948a6960e657b206 0o664
-packages/coq/coq.8.5.3~depends/opam ad5faa97622b27426a70c5aa5d065456 0o664
-packages/coq/coq.8.5.3~depends/files/coq.install 26c6de669a7d377c2be8592c4e3c0260 0o664
-packages/coq/coq.8.10+ktrace/opam b4a017f0c93e15437b3027f3df152d1a 0o664
-packages/coq/coq.8.10+ktrace/files/coq.install a5d0f9a35ef24aa3948a6960e657b206 0o664
-packages/coq-depends/coq-depends.dev/opam 2b52f87d12c045dc5f8576dd96f5218d 0o664
-packages/coq-ast/coq-ast.dev/opam dd4ca2b9f8da2c9fcdfedcb074250965 0o664
-packages/atbr-plugin/atbr-plugin.dev/opam 2f37e9a3674ce347cef68b23e1cc0030 0o664
+repo	0292afda1e0b4272ac179a3e94544b2b	436
