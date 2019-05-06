@@ -16,8 +16,8 @@ build: [
     "-coqide" "no"
     "-debug"]
   [make "-j%{jobs}%"]
-  [make "install"]
 ]
+install: [make "install"]
 depends: [
   "ocaml" {>= "4.02.3" & < "4.06.0"}
   "camlp5" {>= "7.01"}
