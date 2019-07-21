@@ -11,12 +11,12 @@ build: [ make "-j%{jobs}%" ]
 install: [ make "install" ]
 depends: [
   "ocaml"
-  "coq" {>= "8.9" & < "8.10~"}
+  "coq" {>= "8.10" & < "8.11~"}
 ]
 
 tags: [ "keyword:kleene algebra" ]
 authors: [ "Damien Pous" "Thomas Braibant" ]
 
 url {
-  src: "git+https://github.com/proofengineering/atbr-plugin.git#master"
+  src: "git+https://github.com/proofengineering/atbr-plugin.git#v8.10"
 }
